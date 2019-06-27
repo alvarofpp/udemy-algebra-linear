@@ -1,5 +1,6 @@
 # udemy-algebra-linear
 
-Ordem:
+Ordem dos temas:
 1. Escalares
 1. Vetores
+1. Matrizes
